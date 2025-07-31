@@ -117,9 +117,11 @@
   "dependencies": {
     "@babel/runtime-corejs2": "^7.2.0",
     "@postlight/ci-failed-test-reporter": "^1.0",
+    "@postlight/mercury-parser": "^2.2.0",
     "browser-request": "github:postlight/browser-request#feat-add-headers-to-response",
     "cheerio": "^0.22.0",
     "difflib": "github:postlight/difflib.js",
+    "express": "^4.18.2",
     "ellipsize": "0.1.0",
     "iconv-lite": "0.5.0",
     "jquery": "^3.5.0",
